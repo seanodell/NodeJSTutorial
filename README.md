@@ -107,7 +107,7 @@ app.use(express.static('public'))
 
 # Add Bootstrap to make the website pretty
 
-1. Copy CSS and JS code for Bootstrap to the <head> section of your index.html file (example below).
+1. Copy CSS and JS code for Bootstrap to the head section of your index.html file (example below).
 1. Refresh the browser to see a slightly prettier version of your website
 
 *Note: Make sure your code is nicely formatted!*
@@ -124,9 +124,9 @@ app.use(express.static('public'))
 
 # Add AngularJS to make the website dynamic
 
-1. Copy the JS code for AngularJS to the <head> section of your index.html file (example below)
+1. Copy the JS code for AngularJS to the head section of your index.html file (example below)
 1. Create a new file named public/hello_world_controller.js (example below)
-1. Edit your index.html file and add the example code (below) to the <body> section (not the <head> as we did before). Delete the existing Hello World code there so this replaces it.
+1. Edit your index.html file and add the example code (below) to the body section (not the head as we did before). Delete the existing Hello World code there so this replaces it.
 1. Refresh the browser to see your new, dynamic website
 
 ## Example AngularJS code
