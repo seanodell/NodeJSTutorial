@@ -1,0 +1,19 @@
+{
+  "name": "your-app-name",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Write a very brief a description of your application",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "",
+    "start": "^5.1.0"
+  },
+  "author": "Your Name",
+  "contributors": [
+    "Your Name <your@email.address>"
+  ],
+  "license": "MIT"
+}
